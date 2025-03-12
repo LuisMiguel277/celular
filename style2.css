@@ -4,7 +4,6 @@
     margin: 0px;
     padding: 0px;
 }
-
 body{
     height: 100%;
     background: url("imagens/fundo-madeira.jpg") top center;
@@ -17,7 +16,7 @@ main{
 }
 section#telefone{
     top: 50%;
-    left: 50%;
+    left: 54%;
     background: url("imagens/frame-iphone.png") no-repeat;
     transform: translate(-50%,-50%);
     height: 627px;
@@ -26,9 +25,9 @@ section#telefone{
 }
 
 section#redesocial img{
-    margin: 20px;
-    height: 50px;
-    width: 50px;
+    margin: 5px;
+    height: 10%;
+    width: 10%;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgb(0,0, 0, 0.400);
     box-sizing: border-box;
